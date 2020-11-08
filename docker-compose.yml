@@ -1,0 +1,16 @@
+version: '3.7'
+
+services: 
+    web:
+        image: squidfunk/mkdocs-material:6.1.4
+
+        expose: 
+            - 8000
+        ports: 
+            - 8000:8000
+        working_dir: /work
+        volumes:
+            - ./work:/work
+            - ./_site:/work/site
+        command: 
+            ['serve', "--dev-addr=0.0.0.0:8000"]

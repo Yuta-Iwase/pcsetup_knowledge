@@ -1,0 +1,43 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      # scheme: preference #dark theme
+      primary: indigo
+      accent: indigo
+  font:
+    text: Noto Sans JP
+    code: Roboto Mono
+#   language: en
+  language: ja
+#   logo: img/logo.png
+#   favicon: img/favicon.png
+  features:
+    - navigation.instant
+
+# repo_url: https://the.repo.url
+# repo_name: user_name/repo_name
+
+extra_css:
+    - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
