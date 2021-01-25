@@ -6,7 +6,7 @@
 サイト更新により度々効かなくなる  
 2021/01 更新
 ```css
-html>body>div#main>div#cnt>div#rcnt>div>div#center_col>div#res>div#search>div>div>div>div>div>div:nth-child(3){
+html>body>div#main>div#cnt>div#rcnt>div>div#center_col>div#res>div#search>div>div>div>div>div:nth-child(3){
     display: none !important;
 }
 ```
