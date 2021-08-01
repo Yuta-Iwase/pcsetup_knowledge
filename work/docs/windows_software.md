@@ -5,6 +5,9 @@
 ### Google Chrome
 [リンク](https://www.google.com/intl/ja_jp/chrome/)
 
+### Lhaplus
+[リンク](http://www7a.biglobe.ne.jp/~schezo/)
+
 ### Audacity
 音声編集用  
 [リンク](https://www.audacityteam.org/)
@@ -39,5 +42,12 @@ icoファイル作成用
 
 ### Anaconda
 [リンク](https://www.anaconda.com/)
+
+### Docker Desktop
+[リンク](https://docs.docker.jp/docker-for-windows/wsl.html)
+
+### Stirling
+![](./img/soft_icon/Stirling.png)  
+[リンク](https://www.vector.co.jp/soft/win95/util/se079072.html)
 
 ## 科学・論文
