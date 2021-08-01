@@ -13,11 +13,16 @@
 icoファイル作成用  
 [リンク](http://www.towofu.net/soft/aicon.php)
 
-
-### 
-[リンク]()
-
 ## コミュニケーションソフト
+
+### Zoom
+[リンク](https://zoom.us/download)
+
+### Slack
+[リンク](https://slack.com/intl/ja-jp/downloads/windows)
+
+### Discord
+[リンク](https://discord.com/)
 
 ## 開発ツール
 
