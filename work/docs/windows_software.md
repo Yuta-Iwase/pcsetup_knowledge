@@ -91,6 +91,10 @@ icoファイル作成用
 ※2017以降作者の消息不明、公式サイトも消失  
 [リンク](https://www.vector.co.jp/soft/winnt/util/se115105.html)
 
+### NumLockLock
+NumLockを封じる  
+[リンク](https://www.inasoft.org/icountt.html#numlocklock)
+
 ## コミュニケーションソフト
 
 ### Zoom
