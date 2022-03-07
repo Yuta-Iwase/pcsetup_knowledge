@@ -6,7 +6,7 @@
 サイト更新により度々効かなくなる  
 2022/02 更新
 ```css
-#rso > div > div > div:nth-child(3){
+#rso div[style="flex-shrink:0"] > div:nth-child(3){
     display: none !important;
 }
 ```
